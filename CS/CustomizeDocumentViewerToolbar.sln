@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C7167F0D-BC9F-4E6E-AFE1-012C56B48DB5}") = "CustomizeDocumentViewerToolbar (Package)", "CustomizeDocumentViewerToolbar\CustomizeDocumentViewerToolbar (Package)\CustomizeDocumentViewerToolbar (Package).wapproj", "{A44C24E2-B671-4056-87F5-B49EF5B47797}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomizeDocumentViewerToolbar", "CustomizeDocumentViewerToolbar\CustomizeDocumentViewerToolbar\CustomizeDocumentViewerToolbar.csproj", "{36D6EC51-6203-435F-84C6-8C74D7166694}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|arm64 = Debug|arm64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|arm64 = Release|arm64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A44C24E2-B671-4056-87F5-B49EF5B47797}.Debug|arm64.ActiveCfg = Debug|arm64
+		{A44C24E2-B671-4056-87F5-B49EF5B47797}.Debug|arm64.Build.0 = Debug|arm64
+		{A44C24E2-B671-4056-87F5-B49EF5B47797}.Debug|arm64.Deploy.0 = Debug|arm64
+		{A44C24E2-B671-4056-87F5-B49EF5B47797}.Debug|x64.ActiveCfg = Debug|x64
+		{A44C24E2-B671-4056-87F5-B49EF5B47797}.Debug|x64.Build.0 = Debug|x64
+		{A44C24E2-B671-4056-87F5-B49EF5B47797}.Debug|x64.Deploy.0 = Debug|x64
+		{A44C24E2-B671-4056-87F5-B49EF5B47797}.Debug|x86.ActiveCfg = Debug|x86
+		{A44C24E2-B671-4056-87F5-B49EF5B47797}.Debug|x86.Build.0 = Debug|x86
+		{A44C24E2-B671-4056-87F5-B49EF5B47797}.Debug|x86.Deploy.0 = Debug|x86
+		{A44C24E2-B671-4056-87F5-B49EF5B47797}.Release|arm64.ActiveCfg = Release|arm64
+		{A44C24E2-B671-4056-87F5-B49EF5B47797}.Release|arm64.Build.0 = Release|arm64
+		{A44C24E2-B671-4056-87F5-B49EF5B47797}.Release|arm64.Deploy.0 = Release|arm64
+		{A44C24E2-B671-4056-87F5-B49EF5B47797}.Release|x64.ActiveCfg = Release|x64
+		{A44C24E2-B671-4056-87F5-B49EF5B47797}.Release|x64.Build.0 = Release|x64
+		{A44C24E2-B671-4056-87F5-B49EF5B47797}.Release|x64.Deploy.0 = Release|x64
+		{A44C24E2-B671-4056-87F5-B49EF5B47797}.Release|x86.ActiveCfg = Release|x86
+		{A44C24E2-B671-4056-87F5-B49EF5B47797}.Release|x86.Build.0 = Release|x86
+		{A44C24E2-B671-4056-87F5-B49EF5B47797}.Release|x86.Deploy.0 = Release|x86
+		{36D6EC51-6203-435F-84C6-8C74D7166694}.Debug|arm64.ActiveCfg = Debug|arm64
+		{36D6EC51-6203-435F-84C6-8C74D7166694}.Debug|arm64.Build.0 = Debug|arm64
+		{36D6EC51-6203-435F-84C6-8C74D7166694}.Debug|x64.ActiveCfg = Debug|x64
+		{36D6EC51-6203-435F-84C6-8C74D7166694}.Debug|x64.Build.0 = Debug|x64
+		{36D6EC51-6203-435F-84C6-8C74D7166694}.Debug|x86.ActiveCfg = Debug|x86
+		{36D6EC51-6203-435F-84C6-8C74D7166694}.Debug|x86.Build.0 = Debug|x86
+		{36D6EC51-6203-435F-84C6-8C74D7166694}.Release|arm64.ActiveCfg = Release|arm64
+		{36D6EC51-6203-435F-84C6-8C74D7166694}.Release|arm64.Build.0 = Release|arm64
+		{36D6EC51-6203-435F-84C6-8C74D7166694}.Release|x64.ActiveCfg = Release|x64
+		{36D6EC51-6203-435F-84C6-8C74D7166694}.Release|x64.Build.0 = Release|x64
+		{36D6EC51-6203-435F-84C6-8C74D7166694}.Release|x86.ActiveCfg = Release|x86
+		{36D6EC51-6203-435F-84C6-8C74D7166694}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5A1D296-F66E-412E-B692-D9131CED0035}
+	EndGlobalSection
+EndGlobal
