@@ -4,6 +4,8 @@ To create a [DocumentViewer](https://docs.devexpress.com/WinUI/DevExpress.WinUI.
 
 This example creates a custom toolbar with the standard **DocumentViewer**'s commands and adds the **Back** and **Close** [AppBarButtons](https://docs.microsoft.com/windows/winui/api/microsoft.ui.xaml.controls.appbarbutton) and a link to this documentation page (a [HyperlinkButton](https://docs.microsoft.com/windows/winui/api/microsoft.ui.xaml.controls.hyperlinkbutton) inside the [AppBarElementContainer](https://docs.microsoft.com/windows/winui/api/microsoft.ui.xaml.controls.appbarelementcontainer)).
 
+![CustomizeDocumentViewerToolbar_I9rOHbvzLC](https://user-images.githubusercontent.com/12169834/139530134-936bfd81-7f5d-497b-9eab-4472c6dfc7d5.png)
+
 <!-- default file list -->
 ## Files to Look At
 
