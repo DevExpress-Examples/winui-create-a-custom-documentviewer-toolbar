@@ -14,7 +14,7 @@ This example creates a custom toolbar with the standard **DocumentViewer**'s com
 <!-- default file list -->
 ## Files to Look At
 
-- [DocumentViewerPage.xaml](./CS/CustomizeDocumentViewerToolbar/CustomizeDocumentViewerToolbar/Views/DocumentViewerPage.xaml)
+- [DocumentViewerPage.xaml](./CS/CustomizeToolbar/CustomizeToolbar/Views/DocumentViewerPage.xaml)
 <!-- default file list end -->
 
 ## Documentation
