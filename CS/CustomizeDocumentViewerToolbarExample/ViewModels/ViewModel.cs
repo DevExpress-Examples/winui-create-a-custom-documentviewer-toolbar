@@ -1,17 +1,21 @@
 ﻿using DevExpress.Mvvm;
 using System.Collections.Generic;
 
-namespace CustomizeDocumentViewerToolbar {
-    public class Product {
+namespace CustomizeDocumentViewerToolbarExample
+{
+    public class Product
+    {
         public string ProductName { get; set; }
         public string Country { get; set; }
         public string City { get; set; }
         public double UnitPrice { get; set; }
         public int Quantity { get; set; }
     }
-    public class ViewModel : ViewModelBase {
+    public class ViewModel : ViewModelBase
+    {
 
-        public ViewModel() {
+        public ViewModel()
+        {
             List<Product> products = new List<Product> {
                 new Product() { ProductName = "Chang", Country = "UK", City = "Cowes", UnitPrice = 19, Quantity = 10 },
                 new Product() { ProductName = "Gravad lax", Country = "Italy", City = "Reggio Emilia", UnitPrice = 12.5, Quantity = 16 },

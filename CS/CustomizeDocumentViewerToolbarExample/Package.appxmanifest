@@ -7,14 +7,14 @@
   IgnorableNamespaces="uap rescap">
 
   <Identity
-    Name="54d3c00a-ffea-4790-95e4-cdaa598bc579"
-    Publisher="CN=sameishchev.anton"
+    Name="e825494f-b3ec-49eb-b0f6-307a6ea974c1"
+    Publisher="CN=zaitsev"
     Version="1.0.0.0" />
 
   <Properties>
-    <DisplayName>CustomizeDocumentViewerToolbar (Package)</DisplayName>
-    <PublisherDisplayName>sameishchev.anton</PublisherDisplayName>
-    <Logo>Images\StoreLogo.png</Logo>
+    <DisplayName>CustomizeDocumentViewerToolbarExample</DisplayName>
+    <PublisherDisplayName>zaitsev</PublisherDisplayName>
+    <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
 
   <Dependencies>
@@ -31,13 +31,13 @@
       Executable="$targetnametoken$.exe"
       EntryPoint="$targetentrypoint$">
       <uap:VisualElements
-        DisplayName="CustomizeDocumentViewerToolbar (Package)"
-        Description="CustomizeDocumentViewerToolbar (Package)"
+        DisplayName="CustomizeDocumentViewerToolbarExample"
+        Description="CustomizeDocumentViewerToolbarExample"
         BackgroundColor="transparent"
-        Square150x150Logo="Images\Square150x150Logo.png"
-        Square44x44Logo="Images\Square44x44Logo.png">
-        <uap:DefaultTile Wide310x150Logo="Images\Wide310x150Logo.png" />
-        <uap:SplashScreen Image="Images\SplashScreen.png" />
+        Square150x150Logo="Assets\Square150x150Logo.png"
+        Square44x44Logo="Assets\Square44x44Logo.png">
+        <uap:DefaultTile Wide310x150Logo="Assets\Wide310x150Logo.png" />
+        <uap:SplashScreen Image="Assets\SplashScreen.png" />
       </uap:VisualElements>
     </Application>
   </Applications>
