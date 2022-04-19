@@ -28,39 +28,6 @@
                 <FontIcon Glyph="&#xE749;" />
             </AppBarButton>
 
-            <AppBarElementContainer VerticalContentAlignment="Center">
-                <StackPanel
-                    Margin="8,0"
-                    Orientation="Horizontal"
-                    Spacing="5">
-                    <TextBlock
-                        Margin="5,11,4,12"
-                        VerticalAlignment="Center"
-                        FontSize="12"
-                        Text="Zoom" />
-                    <ComboBox
-                        Width="78"
-                        Padding="10,-2,0,0"
-                        VerticalAlignment="Center"
-                        VerticalContentAlignment="Center"
-                        FontSize="12"
-                        IsEnabled="False"
-                        SelectedIndex="2">
-                        <ComboBox.Items>
-                            <ComboBoxItem Content="50%" Tag="50" />
-                            <ComboBoxItem Content="75%" Tag="75" />
-                            <ComboBoxItem Content="100%" Tag="100" />
-                            <ComboBoxItem Content="125%" Tag="125" />
-                            <ComboBoxItem Content="150%" Tag="150" />
-                            <ComboBoxItem Content="175%" Tag="175" />
-                            <ComboBoxItem Content="200%" Tag="200" />
-                            <ComboBoxItem Content="225%" Tag="225" />
-                            <ComboBoxItem Content="250%" Tag="250" />
-                        </ComboBox.Items>
-                    </ComboBox>
-                </StackPanel>
-            </AppBarElementContainer>
-
             <AppBarButton Command="{x:Bind documentViewer.Commands.ShowExportDialogCommand}" Label="Export...">
                 <FontIcon Glyph="&#xEE71;" />
             </AppBarButton>
