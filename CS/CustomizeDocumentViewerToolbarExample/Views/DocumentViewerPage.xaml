@@ -43,7 +43,7 @@
                 <FontIcon Glyph="&#xE8BB;" />
             </AppBarButton>
             <AppBarSeparator />
-            <AppBarElementContainer Height="30">
+            <AppBarElementContainer Height="35">
                 <HyperlinkButton Content="Documentation" NavigateUri="https://docs.devexpress.com/WinUI/DevExpress.WinUI.DocumentViewer.DocumentViewer" />
             </AppBarElementContainer>
         </CommandBar>
