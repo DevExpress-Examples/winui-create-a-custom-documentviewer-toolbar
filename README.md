@@ -28,4 +28,4 @@ To create a [DocumentViewer](https://docs.devexpress.com/WinUI/DevExpress.WinUI.
 ## Documentation
 
 - [DocumentViewer](https://docs.devexpress.com/WinUI/DevExpress.WinUI.DocumentViewer.DocumentViewer?v=21.2)
-- [Create a Custom DocumentViewer Toolbar](https://docs.devexpress.com/WinUI/DevExpress.WinUI.DocumentViewer.DocumentViewer#create-a-custom-toolbar)
+- [Create a Custom DocumentViewer Toolbar](https://docs.devexpress.com/XtraReports/403462/winui-reporting/document-viewer/api-and-customization/customize-the-document-viewer-toolbar)
